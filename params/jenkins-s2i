@@ -1,0 +1,6 @@
+SOURCE_REPOSITORY_URL=https://github.com/aakella1/enablement-ci-cd.git
+NAME=jenkins
+SOURCE_REPOSITORY_CONTEXT_DIR=jenkins-s2i
+IMAGE_STREAM_NAMESPACE=anand-ci-cd
+SOURCE_REPOSITORY_USERNAME=aakella1
+SOURCE_REPOSITORY_PASSWORD=1Kavitalu
